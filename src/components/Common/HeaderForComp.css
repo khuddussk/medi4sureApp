@@ -1,0 +1,14 @@
+.headercomp {
+
+margin: 10px;
+padding: 10 px;
+background-color: teal;
+border: tomato ;
+color: white;
+font-weight: bold;
+border-top-right-radius: 50 px;
+}
+
+.spandata{
+padding-left: 5px;
+}
